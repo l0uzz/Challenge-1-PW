@@ -1,7 +1,7 @@
-# pw-challenge
-<b>ainda não completo</b>
+# Firs Challenge PW CleCLe
+<b>EM DESENVOLVIMENTO</b>
 <h2>O que ainda falta:</h2>
 <ul>
-  <li>apagar os itens de acordo com os checkbox ativos</li>
-  <li>adicionar a acessibilidade aos checkboxes</li>
+  <li>Arrumar uma outra forma em relação a como apagar os itens/itens especificos</li>
+  <li>Modificar em relação a acessibilidade do codigo pelas checkbox</li>
 </ul>
